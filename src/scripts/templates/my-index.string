@@ -1,0 +1,31 @@
+<div class="m-index">
+	<div class="l-container"></div>
+	<footer>
+		<ul>
+			<li>
+				<div class="hidden" action-type="switch.tabs" data-tag="home">
+					<img src="/ULBapp/img/home_page_gray.png"  />
+				</div>
+				<div action-type="switch.tabs" data-tag="home">
+					<img src="/ULBapp/img/home_page_blue.png" />
+				</div>
+			</li>
+			<li>
+				<div action-type="switch.tabs" data-tag="mlqs">
+					<img src="/ULBapp/img/h_mlqs_gray.png" />
+				</div>
+				<div class="hidden" action-type="switch.tabs" data-tag="mlqs">
+					<img src="/ULBapp/img/h_mlqs_green.png" />
+				</div>
+			</li>
+			<li>
+				<div action-type="switch.tabs" data-tag="my">
+					<img src="/ULBapp/img/personal_gray.png" />
+				</div>
+				<div class="hidden" action-type="switch.tabs" data-tag="my">
+					<img src="/ULBapp/img/personal_blue.png"/>
+				</div>
+			</li>
+		</ul>
+	</footer>
+</div>

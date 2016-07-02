@@ -1,0 +1,42 @@
+<div class="m-mlqs">
+		<header>
+			<ul>
+				<li class="yo-ico">&#xe631;</li>
+				<li>
+					<p>面料趋势</p>
+				</li>
+				<li class="yo-ico">&#xe6ee;</li>
+			</ul>
+		</header>
+		
+		<section>
+			<div>
+				<div>
+					<img src="/ULBapp/img/h_trend_header_bg.jpg" style="width: 100%;"/>
+				</div>
+				<div></div>
+				<div>
+					<p>最新更新</p>
+					<p>New</p>
+				</div>
+			</div>
+			<ul>
+				<li>
+					<div>
+						<img src="/ULBapp/img/h_trend_header_bg.jpg" style="width: 100%;"/>
+					</div>
+					<div></div>
+					<div>
+						<p>最新更新</p>
+						<p>New</p>
+					</div>
+				</li>
+				<li>
+					
+				</li>
+				<li>
+					
+				</li>
+			</ul>	
+		</section>			
+</div>

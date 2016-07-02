@@ -1,0 +1,94 @@
+	<div class="m-home">
+			<header>
+				<ul>
+					<li class="yo-ico">&#xe631;</li>
+					<li>
+						<p>面料商首页</p>
+					</li>
+					<li class="yo-ico">&#xe6ee;</li>
+				</ul>
+			</header>
+			
+			<section spa-widget="scroll" id="home-hot-swiper" data-scroll-id="homeHotScroll">
+			<div>
+				<div class="head">
+                    <img src="/ULBapp/img/arrow.png" width="40" height="40"/>
+                    <span>下拉刷新...</span>
+                </div>
+				<div class="banner">
+					<div class="swiper-container">
+					    <div class="swiper-wrapper">
+					        <div class="swiper-slide">
+					        	<img src="/ULBapp/img/banner1.png" style="width: 100%;"/>
+					        </div>
+					        <div class="swiper-slide">
+					        	<img src="/ULBapp/img/banner1.png" style="width: 100%;"/>
+					        </div>
+					        <div class="swiper-slide">
+					        	<img src="/ULBapp/img/banner1.png" style="width: 100%;"/>
+					        </div>
+					        <div class="swiper-slide">
+					        	<img src="/ULBapp/img/banner1.png" style="width: 100%;"/>
+					        </div>
+					    </div>
+					    <!-- 如果需要分页器 -->
+					    <div class="swiper-pagination"></div>
+					    
+					</div>
+				</div>
+				<div class="nav">
+					<ul>
+						<li>
+							<!--<i class="yo-ico">&#xe62f;</i>
+							<p>块速抢购</p>-->
+							<img src="/ULBapp/img/btn_fast_icon.png" />
+						</li>
+						<li>
+							<img src="/ULBapp/img/btn_release_cloth_icon.png" />
+						</li>
+						<li>
+							<img src="/ULBapp/img/btn_style_mate_icon.png"  />
+						</li>
+						<li>
+							<img src="/ULBapp/img/btn_try_icon.png" />
+						</li>
+					</ul>
+				</div>
+				<div class="kong"></div>
+				
+				<div class="main-head">
+					<i></i>
+					<i>
+						<span></span>
+					</i>
+					<i></i>
+					<i>最新求购推荐</i>
+					<span>全部&nbsp;》</span>
+				</div>
+					<ul ms-repeat-value="livelist">
+							<li>
+								<div>
+									<img ms-src="value[0].imgsrc" />
+									<p ms-text="value[0].title"></p>
+									<span ms-text="value[0].mi"></span>
+									<span ms-text="value[0].time">今天12:21</span>
+								</div>
+							</li>
+							<li></li>
+							<li>
+								<div>
+									<img ms-src="value[1].imgsrc" />
+									<p ms-text="value[1].title"></p>
+									<span ms-text="value[1].mi"></span>
+									<span ms-text="value[1].time"></span>
+								</div>
+							</li>
+						</ul>
+					<div class="foot">
+                      <img src="/ULBapp/img/arrow.png" width="40" height="40"/>
+                      <span>上拉加载更多...</span>
+                  	</div>	
+					
+			</div>
+			</section>			
+	</div>

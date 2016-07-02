@@ -1,0 +1,53 @@
+<div class="m-seller">
+	<header>
+		<div>
+			<ul>
+				<li></li>
+				<li class="yo-ico">商家&#xe625;</li>
+				<li class="yo-ico">&#xe6ee;</li>
+			</ul>
+		</div>
+		<div>
+			<div>
+				
+			</div>
+			<div class="yo-ico">个人资料<span>&#xe626;</span></div>
+		</div>
+	</header>
+		
+	<section>
+		<ul>
+			<li class="yo-ico"><i>&#xe617;</i><b>订单管理</b>
+				<span>&#xe626;</span>
+			</li>
+			<li class="yo-ico"><i>&#xe6d3;</i><b>我的钱包</b>
+				<span>&#xe626;</span>
+			</li>
+		</ul>
+		<ul>
+			<li class="yo-ico"><i>&#xe612;</i><b>我的店铺</b>
+				<span>&#xe626;</span>			
+			</li>
+			<li class="yo-ico"><i>&#xe641;</i><b>我的面料</b>
+				<span>&#xe626;</span>
+			</li>
+			<li class="yo-ico"><i>&#xe651;</i><b>店铺二维码</b>
+				<span>&#xe626;</span>
+			</li>
+			<li class="yo-ico"><i>&#xe634;</i><b>款式匹配</b>
+				<span>&#xe626;</span>
+			</li>
+			<li class="yo-ico"><i>&#xe608;</i><b>求购匹配</b>
+				<span>&#xe626;</span>
+			</li>
+		</ul>
+		<ul>
+			<li class="yo-ico"><i>&#xe675;</i><b>联系客服</b>
+				<span>&#xe626;</span>
+			</li>
+			<li class="yo-ico"><i>&#xe613;</i><b>设置</b>
+				<span>&#xe626;</span>
+			</li>
+		</ul>
+	</section>			
+</div>
